@@ -24,7 +24,7 @@ after(async function() {
 });
 
 const assert = require('assert');
-//Borrar ver los selectores vas a tener
+
 describe('Primer test ? ? ', function() {
 	it('Verificar que la version sea Bienvenido a Weather APP', async ()=> {
 		let textViewWelcomeMsg = await driver.findElement(By.id(

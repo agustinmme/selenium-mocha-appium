@@ -1,5 +1,5 @@
 {
-    "name": "example-appium",
+    "name": "example-appium-selenium",
     "version": "1.0.0",
     "description": "Appium selenium mocha ejemplo",
     "main": "index.js",
